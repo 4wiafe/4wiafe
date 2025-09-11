@@ -5,6 +5,7 @@
 🌍 My goal is to create impactful applications and contribute to projects that push the boundaries of what’s possible with web development and AI.
 
 📫 Let’s connect: <br/>
+Email: gyebirichmond21@gmail.com
 LinkedIn: http://linkedin.com/in/richmondwiafe <br/>
 X/Twitter: https://x.com/4wiafe?s=11 <br/>
 TikTok https://www.tiktok.com/@4_wiafe?_t=ZM-8zQyaI7gFbc&_r=1 <br/>
