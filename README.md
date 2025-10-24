@@ -13,17 +13,17 @@ TikTok https://www.tiktok.com/@4_wiafe?_t=ZM-8zQyaI7gFbc&_r=1 <br/>
 Portfolio: Coming soon <br/>
 
 # 🚧 Projects
-# - Weather App </br>
+**- Weather App** </br>
  *Live preview:* https://4wiafe.github.io/weather-app/ </br>
 *View code:* https://github.com/4wiafe/weather-app </br>
-  </hr>
-# - Tic Tac Toe game </br>
-**Live preview:** https://4wiafe.github.io/odin-tic-tac-toe/ </br>
+  
+**- Tic Tac Toe game** </br>
+*Live preview:* https://4wiafe.github.io/odin-tic-tac-toe/ </br>
 **View code:** https://github.com/4nana-kwame/odin-tic-tac-toe.git </br>
-</hr>
-**Admin Dashboard:** 
-**Live preview:** https://4wiafe.github.io/odin-admin-dashboard/ </br>
-**View code:** https://github.com/4nana-kwame/odin-admin-dashboard.git </br>
+
+**- Admin Dashboard:** 
+*Live preview:* https://4wiafe.github.io/odin-admin-dashboard/ </br>
+*View code:* https://github.com/4nana-kwame/odin-admin-dashboard.git </br>
 
 
 # 💻 Tech Stack:
