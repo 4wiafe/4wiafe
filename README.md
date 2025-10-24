@@ -21,7 +21,7 @@ Portfolio: Coming soon <br/>
 *Live preview:* https://4wiafe.github.io/odin-tic-tac-toe/ </br>
 **View code:** https://github.com/4nana-kwame/odin-tic-tac-toe.git </br>
 
-**- Admin Dashboard:** 
+**- Admin Dashboard:** </br>
 *Live preview:* https://4wiafe.github.io/odin-admin-dashboard/ </br>
 *View code:* https://github.com/4nana-kwame/odin-admin-dashboard.git </br>
 
