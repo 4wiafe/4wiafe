@@ -5,7 +5,7 @@
 🌍 My goal is to create impactful applications and contribute to projects that push the boundaries of what’s possible with web development and AI.
 
 📫 Let’s connect: <br/>
-WhatsApp: +233-55-994-5156
+WhatsApp: +233-55-994-5156 </br>
 Email: gyebirichmond21@gmail.com <br/>
 LinkedIn: http://linkedin.com/in/richmondwiafe <br/>
 X/Twitter: https://x.com/4wiafe?s=11 <br/>
