@@ -12,6 +12,10 @@ X/Twitter: https://x.com/4wiafe?s=11 <br/>
 TikTok https://www.tiktok.com/@4_wiafe?_t=ZM-8zQyaI7gFbc&_r=1 <br/>
 Portfolio: Coming soon <br/>
 
+# 🚧 Projects
+Weather App: https://4wiafe.github.io/weather-app/ </br>
+Tic Tac Toe game: https://4wiafe.github.io/odin-tic-tac-toe/ </br>
+Admin Dashboard: https://4wiafe.github.io/odin-admin-dashboard/ </br>
 
 
 # 💻 Tech Stack:
