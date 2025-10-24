@@ -16,6 +16,7 @@ Portfolio: Coming soon <br/>
 **- Weather App** </br>
   **Live preview:** https://4wiafe.github.io/weather-app/ </br>
   **View code:** https://github.com/4wiafe/weather-app </br>
+  </hr>
 Tic Tac Toe game: https://4wiafe.github.io/odin-tic-tac-toe/ </br>
 Admin Dashboard: https://4wiafe.github.io/odin-admin-dashboard/ </br>
 
