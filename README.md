@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Richmond
 
-💡A junior frontend Developer specializing in building modern, scalable, and secure applications with JavaScript, HTML, and CSS.
+💡A frontend Developer specializing in building modern, scalable, and secure applications with JavaScript, HTML, and CSS.
 
 🌍 My goal is to create impactful applications and contribute to projects that push the boundaries of what’s possible with web development and AI.
 
