@@ -1,41 +1,104 @@
-## 👋 Hi, I’m Richmond
+# 👋 Hi, I’m Richmond
 
 💡I'm currently a student of ALX studying front-end engineering and working on projects that will push me beyond my current skillset.
 🌍 My goal is to create impactful applications and contribute to projects that push the boundaries of what’s possible with web development and AI.
 
-# 📫 Let’s connect: <br/>
-<a href="https://wa.me/233559945156">
+## 📫 Let’s connect: <br/>
+<a href="https://wa.me/233559945156" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-<a href="http://linkedin.com/in/richmondwiafe">
+<a href="http://linkedin.com/in/richmondwiafe" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://x.com/4wiafe?s=11">
+<a href="https://x.com/4wiafe?s=11" target="_blank">
   <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-<a href="https://www.tiktok.com/@4_wiafe?_t=ZM-8zQyaI7gFbc&_r=1">
+<a href="https://www.tiktok.com/@4_wiafe?_t=ZM-8zQyaI7gFbc&_r=1" target="_blank">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
 <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-blue?style=for-the-badge" />
 
 **Email:** *gyebirichmond21@gmail.com*
 
-# 🚧 Projects
-**- Weather App** </br>
- *Live preview:* https://4wiafe.github.io/weather-app/ </br>
-*View code:* https://github.com/4wiafe/weather-app </br>
-  
-**- Tic Tac Toe game** </br>
-*Live preview:* https://4wiafe.github.io/odin-tic-tac-toe/ </br>
-**View code:** https://github.com/4nana-kwame/odin-tic-tac-toe.git </br>
+## 🚧 Projects
+<div style="border: 1px solid #d0d7de; padding: 20px; border-radius: 10px; margin: 20px 0;">
 
-**- Admin Dashboard:** </br>
-*Live preview:* https://4wiafe.github.io/odin-admin-dashboard/ </br>
-*View code:* https://github.com/4nana-kwame/odin-admin-dashboard.git </br>
+  <h3 style="margin: 0 0 10px 0;">🌦️ Weather App</h3>
+  <p style="margin: 0 0 15px 0;">
+    A clean weather application that fetches real-time weather data using an external API and displays conditions visually.
+  </p>
 
-**- Personal Library App:** </br>
-*Live preview:* https://4wiafe.github.io/odin-library/ </br>
-*View code:* https://github.com/4wiafe/odin-library </br>
+  <a href="https://4wiafe.github.io/weather-app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Preview-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/4wiafe/weather-app" target="_blank">
+    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</div>
+</br>
+
+
+<div style="border: 1px solid #d0d7de; padding: 20px; border-radius: 10px; margin: 20px 0;">
+
+  <h3 style="margin: 0 0 10px 0;">❌⭕ Tic Tac Toe Game</h3>
+
+  <p style="margin: 0 0 15px 0;">
+    A browser-based Tic Tac Toe game built with modular JavaScript, factory functions, and clean UI interaction.
+  </p>
+
+  <a href="https://4wiafe.github.io/odin-tic-tac-toe/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Preview-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/4nana-kwame/odin-tic-tac-toe" target="_blank">
+    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</div>
+</br>
+
+
+<div style="border: 1px solid #d0d7de; padding: 20px; border-radius: 10px; margin: 20px 0;">
+
+  <h3 style="margin: 0 0 10px 0;">📊 Admin Dashboard</h3>
+
+  <p style="margin: 0 0 15px 0;">
+    A responsive admin dashboard layout created with CSS Grid and Flexbox, inspired by modern dashboard designs.
+  </p>
+
+  <a href="https://4wiafe.github.io/odin-admin-dashboard/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Preview-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/4nana-kwame/odin-admin-dashboard" target="_blank">
+    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</div>
+</br>
+
+
+<div style="border: 1px solid #d0d7de; padding: 20px; border-radius: 10px; margin: 20px 0;">
+
+  <h3 style="margin: 0 0 10px 0;">📚 Personal Library App</h3>
+
+  <p style="margin: 0 0 15px 0;">
+    A digital bookshelf app where users can add, remove, and manage books using local storage for persistence.
+  </p>
+
+  <a href="https://4wiafe.github.io/odin-library/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Preview-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/4wiafe/odin-library" target="_blank">
+    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</div>
+</br>
+
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
