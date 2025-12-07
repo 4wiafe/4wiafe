@@ -4,7 +4,7 @@
 🌍 My goal is to create impactful applications and contribute to projects that push the boundaries of what’s possible with web development and AI.
 
 # 📫 Let’s connect: <br/>
-<a href="https://wa.me/233559945156">
+<a href="https://wa.me/233559945156" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <a href="mailto:gyebirichmond21@gmail.com">
