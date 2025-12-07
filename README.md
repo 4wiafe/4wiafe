@@ -3,13 +3,24 @@
 💡I'm currently a student of ALX studying front-end engineering and working on projects that will push me beyond my current skillset.
 🌍 My goal is to create impactful applications and contribute to projects that push the boundaries of what’s possible with web development and AI.
 
-#📫 Let’s connect: <br/>
-**WhatsApp**: +233-55-994-5156 </br>
-**Email**: gyebirichmond21@gmail.com <br/>
-**LinkedIn**: http://linkedin.com/in/richmondwiafe <br/>
-**X/Twitter**: https://x.com/4wiafe?s=11 <br/>
-**TikTok**: https://www.tiktok.com/@4_wiafe?_t=ZM-8zQyaI7gFbc&_r=1 <br/>
-**Portfolio**: Coming soon <br/>
+# 📫 Let’s connect: <br/>
+<a href="https://wa.me/233559945156">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="mailto:gyebirichmond21@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="http://linkedin.com/in/richmondwiafe">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://x.com/4wiafe?s=11">
+  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://www.tiktok.com/@4_wiafe?_t=ZM-8zQyaI7gFbc&_r=1">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-blue?style=for-the-badge" />
+
 
 # 🚧 Projects
 **- Weather App** </br>
