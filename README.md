@@ -7,9 +7,6 @@
 <a href="https://wa.me/233559945156">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-<a href="mailto:gyebirichmond21@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 <a href="http://linkedin.com/in/richmondwiafe">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -21,6 +18,7 @@
 </a>
 <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-blue?style=for-the-badge" />
 
+**Email:** *gyebirichmond21@gmail.com*
 
 # 🚧 Projects
 **- Weather App** </br>
