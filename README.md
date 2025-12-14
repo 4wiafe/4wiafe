@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Richmond
 
-💡I'm currently a student of ALX studying front-end engineering and working on projects that will push me beyond my current skillset.
-🌍 My goal is to create impactful applications and contribute to projects that push the boundaries of what’s possible with web development and AI.
+I'm currently a student of ALX studying front-end engineering and working on projects that will push me beyond my current skillset.
+My goal is to create impactful applications and contribute to projects that push the boundaries of what’s possible with web development and AI.
 
 ## 📫 Let’s connect: <br/>
 <a href="https://wa.me/233559945156" target="_blank">
