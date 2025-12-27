@@ -82,21 +82,22 @@ My goal is to create impactful applications and contribute to projects that push
 
 <div style="border: 1px solid #d0d7de; padding: 20px; border-radius: 10px; margin: 20px 0;">
 
-  <h3 style="margin: 0 0 10px 0;">📚 Personal Library App</h3>
+  <h3 style="margin: 0 0 10px 0;">🚢 Battleship Game</h3>
 
   <p style="margin: 0 0 15px 0;">
-    A digital bookshelf app where users can add, remove, and manage books using local storage for persistence.
+    A classic Battleship game built with JavaScript, featuring player vs computer logic, game state management, and a clean interactive UI.
   </p>
 
-  <a href="https://4wiafe.github.io/odin-library/" target="_blank">
+  <a href="https://4wiafe.github.io/odin-battleship/" target="_blank">
     <img src="https://img.shields.io/badge/Live_Preview-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 
-  <a href="https://github.com/4wiafe/odin-library" target="_blank">
+  <a href="https://github.com/4wiafe/odin-battleship" target="_blank">
     <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
 </div>
+
 </br>
 
 
