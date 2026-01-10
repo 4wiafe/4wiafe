@@ -16,87 +16,13 @@ My goal is to create impactful applications and contribute to projects that push
 <a href="https://www.tiktok.com/@4_wiafe?_t=ZM-8zQyaI7gFbc&_r=1" target="_blank">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-blue?style=for-the-badge" />
+<br/>
+<h3>My Portfolio Website</h3>
+<a href="https://richmondwiafe.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-View%20Website-blue?style=for-the-badge" />
+</a>
 
 **Email:** *gyebirichmond21@gmail.com*
-
-## 🚧 Projects
-<div style="border: 1px solid #d0d7de; padding: 20px; border-radius: 10px; margin: 20px 0;">
-
-  <h3 style="margin: 0 0 10px 0;">🌦️ Weather App</h3>
-  <p style="margin: 0 0 15px 0;">
-    A clean weather application that fetches real-time weather data using an external API and displays conditions visually.
-  </p>
-
-  <a href="https://4wiafe.github.io/weather-app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Preview-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/4wiafe/weather-app" target="_blank">
-    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-</div>
-</br>
-
-
-<div style="border: 1px solid #d0d7de; padding: 20px; border-radius: 10px; margin: 20px 0;">
-
-  <h3 style="margin: 0 0 10px 0;">❌⭕ Tic Tac Toe Game</h3>
-
-  <p style="margin: 0 0 15px 0;">
-    A browser-based Tic Tac Toe game built with modular JavaScript, factory functions, and clean UI interaction.
-  </p>
-
-  <a href="https://4wiafe.github.io/odin-tic-tac-toe/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Preview-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/4nana-kwame/odin-tic-tac-toe" target="_blank">
-    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-</div>
-</br>
-
-
-<div style="border: 1px solid #d0d7de; padding: 20px; border-radius: 10px; margin: 20px 0;">
-
-  <h3 style="margin: 0 0 10px 0;">📊 Admin Dashboard</h3>
-
-  <p style="margin: 0 0 15px 0;">
-    A responsive admin dashboard layout created with CSS Grid and Flexbox, inspired by modern dashboard designs.
-  </p>
-
-  <a href="https://4wiafe.github.io/odin-admin-dashboard/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Preview-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/4nana-kwame/odin-admin-dashboard" target="_blank">
-    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-</div>
-</br>
-
-
-<div style="border: 1px solid #d0d7de; padding: 20px; border-radius: 10px; margin: 20px 0;">
-
-  <h3 style="margin: 0 0 10px 0;">🚢 Battleship Game</h3>
-
-  <p style="margin: 0 0 15px 0;">
-    A classic Battleship game built with JavaScript, featuring player vs computer logic, game state management, and a clean interactive UI.
-  </p>
-
-  <a href="https://4wiafe.github.io/odin-battleship/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Preview-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/4wiafe/odin-battleship" target="_blank">
-    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-</div>
 
 </br>
 
