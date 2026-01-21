@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Richmond
 
-I'm currently a student of ALX studying front-end engineering and working on projects that will push me beyond my current skillset.
-My goal is to create impactful applications and contribute to projects that push the boundaries of what’s possible with web development and AI.
+Hi, I’m Richmond, a front-end web developer who helps small businesses and individuals build clean, modern, and mobile-friendly websites.
+I specialize in turning ideas into simple, fast-loading websites that are easy to use and look professional on any device. Whether you need a new website or a redesign of an outdated one, I focus on clarity, performance, and usability.
+I communicate clearly, meet deadlines, and make the process stress-free — even if you’re not technical.
 
 ## 📫 Let’s connect: <br/>
 <a href="https://wa.me/233559945156" target="_blank">
