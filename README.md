@@ -1,8 +1,9 @@
 # 👋 Hi, I’m Richmond
 
-Hi, I’m Richmond, a front-end web developer who helps small businesses and individuals build clean, modern, and mobile-friendly websites.
-I specialize in turning ideas into simple, fast-loading websites that are easy to use and look professional on any device. Whether you need a new website or a redesign of an outdated one, I focus on clarity, performance, and usability.
-I communicate clearly, meet deadlines, and make the process stress-free — even if you’re not technical.
+I'm front-end developer focused on building user-centered, high-performing web experiences.
+I design and develop responsive, fast-loading interfaces that guide users to take action, with a strong focus on clarity, usability, and real-world impact.
+Using JavaScript and React, I turn ideas into clean, scalable solutions that are intuitive, effective, and built for how users actually interact.
+If you care about both quality and results, we’ll work well together.
 
 ## 📫 Let’s connect: <br/>
 <a href="https://wa.me/233559945156" target="_blank">
