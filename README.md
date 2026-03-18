@@ -15,9 +15,6 @@ If you care about both quality and results, we’ll work well together.
 <a href="https://x.com/4wiafe?s=11" target="_blank">
   <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-<a href="https://www.tiktok.com/@4_wiafe?_t=ZM-8zQyaI7gFbc&_r=1" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-</a>
 <br/>
 <h3>My Portfolio Website</h3>
 <a href="https://richmondwiafe.vercel.app/" target="_blank">
