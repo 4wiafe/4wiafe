@@ -26,7 +26,7 @@ If you care about both quality and results, we’ll work well together.
 </br>
 
 ## 🚧 Projects: <br/>
-Daily Alignment: <a href="https://daily-alignment.vercel.app/" target="_blank">Live Preview</a>
+Daily Alignment: <a href="https://daily-alignment.vercel.app/" target="_blank">Live Preview</a> <a href="https://github.com/4wiafe/daily-alignment" target="_blank">Live Preview</a>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![React](https://img.shields.io/badge/react.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
