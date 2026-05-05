@@ -26,7 +26,7 @@ If you care about both quality and results, we’ll work well together.
 </br>
 
 ## 🚧 Projects: <br/>
-Daily Alignment: <a href="https://daily-alignment.vercel.app/" target="_blank">Live Preview</a> <a href="https://github.com/4wiafe/daily-alignment" target="_blank">View code</a>
+Daily Alignment: <a href="https://daily-alignment.vercel.app/" target="_blank">Live Preview</a> <a href="https://github.com/4wiafe/daily-alignment" target="_blank">View code</a> <br />
 Memory card game: <a href="https://memory-card-beta-nine.vercel.app/" target="_blank">Live Preview</a> <a href="https://github.com/4wiafe/memory-card" target="_blank">View code</a>
 
 # 💻 Tech Stack:
