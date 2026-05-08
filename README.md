@@ -1,43 +1,73 @@
-# 👋 Hi, I’m Richmond
+# Hey, I'm Richmond 👋
 
-I'm front-end developer focused on building user-centered, high-performing web experiences.
-I design and develop responsive, fast-loading interfaces that guide users to take action, with a strong focus on clarity, usability, and real-world impact.
-Using JavaScript and React, I turn ideas into clean, scalable solutions that are intuitive, effective, and built for how users actually interact.
-If you care about both quality and results, we’ll work well together.
+I'm a developer on a **journey into backend engineering.**
 
-## 📫 Let’s connect: <br/>
+I recently made the decision to go deep on backend development — learning how real systems are built, how data moves, how APIs work, and how to write code that runs reliably at scale. I'm documenting everything as I go.
+
+Right now, I'm at the beginning. And I'm okay with that.
+
+<img width="500" height="283" alt="weqzu6r" src="https://github.com/user-attachments/assets/7d1f9809-4460-49d8-b8da-c79360697dae" />
+
+---
+
+## 📍 Where I Am Right Now
+
+**Currently learning:** Python fundamentals
+
+```
+🟡 Python basics        ← here right now
+⬜ Databases & SQL
+⬜ REST APIs (FastAPI)
+⬜ Background Workers
+⬜ Cloud & Deployment
+⬜ System Design
+⬜ AI Integration
+⬜ Go (Golang)
+```
+
+---
+
+## 🎯 What I'm Working Toward
+
+Once I have the fundamentals, I'll be building **CreatorPulse** — an AI-powered creator analytics platform that syncs metrics across YouTube, Instagram, and TikTok, and uses AI to tell creators what to do next.
+
+It's my primary learning vehicle. Every backend concept I learn will be applied inside this real project.
+
+**Planned stack:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://streak-stats.demolab.com/?user=4wiafe&theme=tokyonight&hide_border=false)
+
+---
+
+## 📫 Let's Connect
+
+I'm actively learning and open to conversations with engineers, teams, and anyone building interesting backend systems.
+
 <a href="https://wa.me/233559945156" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <a href="http://linkedin.com/in/richmondwiafe" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://x.com/4wiafe?s=11" target="_blank">
+<a href="https://x.com/4wiafe" target="_blank">
   <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-<br/>
-<h3>My Portfolio Website</h3>
-<a href="https://richmondwiafe.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-View%20Website-blue?style=for-the-badge" />
-</a>
 
-**Email:** *gyebirichmond21@gmail.com*
-
-</br>
-
-## 🚧 Projects: <br/>
-Daily Alignment: <a href="https://daily-alignment.vercel.app/" target="_blank">Live Preview</a> <a href="https://github.com/4wiafe/daily-alignment" target="_blank">View code</a> <br />
-Memory card game: <a href="https://memory-card-beta-nine.vercel.app/" target="_blank">Live Preview</a> <a href="https://github.com/4wiafe/memory-card" target="_blank">View code</a>
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![React](https://img.shields.io/badge/react.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=4wiafe&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=4wiafe&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=4wiafe&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Email:** gyebirichmond21@gmail.com
 
 ---
-[![](https://visitcount.itsvg.in/api?id=4wiafe&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=4wiafe&icon=0&color=0)](https://visitcount.itsvg.in)
