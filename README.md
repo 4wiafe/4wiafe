@@ -4,7 +4,7 @@ I'm a developer on a **journey into backend engineering.**
 
 I recently made the decision to go deep on backend development, learning how real systems are built, how data moves, how APIs work, and how to write code that runs reliably at scale. I'm documenting everything as I go.
 
-<img width="500" height="283" alt="weqzu6r" src="https://github.com/user-attachments/assets/7d1f9809-4460-49d8-b8da-c79360697dae" />
+<img width="300" height="183" alt="weqzu6r" src="https://github.com/user-attachments/assets/7d1f9809-4460-49d8-b8da-c79360697dae" />
 
 ---
 
