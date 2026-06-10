@@ -46,7 +46,6 @@ It's my primary learning vehicle. Every backend concept I learn will be applied 
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=4wiafe&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 
 ![](https://streak-stats.demolab.com/?user=4wiafe&theme=tokyonight&hide_border=false)
 
