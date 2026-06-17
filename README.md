@@ -13,8 +13,8 @@ I recently made the decision to go deep on backend development, learning how rea
 **Currently learning:** Python fundamentals
 
 ```
-🟡 Python basics        ← here right now
-⬜ Databases & SQL
+🟡 Python basics       
+🟡 Databases & SQL         ← here right now
 ⬜ REST APIs (FastAPI)
 ⬜ Background Workers
 ⬜ Cloud & Deployment
