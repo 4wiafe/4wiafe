@@ -10,7 +10,7 @@ I recently made the decision to go deep on backend development, learning how rea
 
 ## 📍 Where I Am Right Now
 
-**Currently learning:** Python fundamentals
+**Currently learning:** Databases & SQL
 
 ```
 🟡 Python basics       
