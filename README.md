@@ -14,8 +14,8 @@ I recently made the decision to go deep on backend development, learning how rea
 
 ```
 🟡 Python basics       
-🟡 Databases & SQL         ← here right now
-⬜ REST APIs (FastAPI)
+🟡 Databases & SQL        
+🟡 REST APIs (FastAPI)     ← here right now
 ⬜ Background Workers
 ⬜ Cloud & Deployment
 ⬜ System Design
