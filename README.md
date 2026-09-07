@@ -1,35 +1,40 @@
 # Hey, I'm Richmond 👋
+I'm a developer on a **journey into backend engineering** — going deep on how real systems are built, then using that depth to go freelance and eventually run my own small software studio.
 
-I'm a developer on a **journey into backend engineering.**
-
-I recently made the decision to go deep on backend development, learning how real systems are built, how data moves, how APIs work, and how to write code that runs reliably at scale. I'm documenting everything as I go.
-
-<img width="300" height="183" alt="weqzu6r" src="https://github.com/user-attachments/assets/7d1f9809-4460-49d8-b8da-c79360697dae" />
+I recently committed to a full-stack, backend-specialized path: strong enough in the backend to build production systems on my own, capable enough on the frontend to ship a whole usable product. I'm documenting the whole thing as I go.
 
 ---
 
 ## 📍 Where I Am Right Now
 
-**Currently learning:** Databases & SQL
+**Currently learning:** REST APIs with FastAPI
 
 ```
-🟡 Python basics       
-🟡 Databases & SQL        
-🟡 REST APIs (FastAPI)     ← here right now
-⬜ Background Workers
-⬜ Cloud & Deployment
-⬜ System Design
-⬜ AI Integration
-⬜ Go (Golang)
+🟢 Python basics
+🟢 Databases & SQL
+🟡 REST APIs (FastAPI)              ← here right now
+⬜ Auth & Security
+⬜ Full-Stack Layer (thin frontend)
+⬜ Integrations (payments, email, files, background jobs)
+⬜ VPS & Production Deployment
+⬜ Multi-Tenant SaaS Boilerplate
+⬜ Fintech Flagship Project
+⬜ Freelance Client Work
 ```
 
 ---
 
 ## 🎯 What I'm Working Toward
 
-Once I have the fundamentals, I'll be building **CreatorPulse**, an AI-powered creator analytics platform that syncs metrics across YouTube, Instagram, and TikTok, and uses AI to tell creators what to do next.
+I'm not chasing one startup idea — I'm building a small portfolio of real, usable software, and using it to go freelance and eventually build my own studio.
 
-It's my primary learning vehicle. Every backend concept I learn will be applied inside this real project.
+**The build path:**
+- A **Personal Finance API** — my FastAPI + PostgreSQL fundamentals project
+- A **reusable multi-tenant SaaS boilerplate** — auth, roles, billing, the foundation I'll reuse across future client work
+- A **small business inventory & reconciliation tool**, built for a real local business, not a hypothetical one
+- An **Agent Banking Ledger & Reconciliation API** — my fintech flagship: float management, tiered commissions, end-of-day reconciliation, idempotency, and audit logging
+
+Every concept I learn gets applied inside one of these, not just exercises in isolation.
 
 **Planned stack:**
 
@@ -38,24 +43,22 @@ It's my primary learning vehicle. Every backend concept I learn will be applied 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-
 ![](https://streak-stats.demolab.com/?user=4wiafe&theme=tokyonight&hide_border=false)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=4wiafe&theme=tokyonight)
 
 ---
 
 ## 📫 Let's Connect
 
-I'm actively learning and open to conversations with engineers, teams, and anyone building interesting backend systems.
+I'm actively building and open to conversations with engineers, teams, and small businesses that need practical backend or full-stack work done.
 
 <a href="https://wa.me/233559945156" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
