@@ -1,22 +1,12 @@
-# Hey, I'm Nana Kwame 👋
+# Kwame Wiafe 🥷
 
-I like **building things and figuring out how they work.**
+I like experimenting, building, breaking, and figuring things out.
 
-Currently exploring **C++** and whatever catches my curiosity.
+Currently messing around with `C++`
 
-### 🔨 Things I Plan to Build
+*Check my YouTube channel* <br />
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kwame_wiafe) <br />
 
-* 🎮 Games
-* 🖥️ Graphics & simulations
-* 👁️ Computer vision
-* 🤖 Robotics
-* ⚙️ Systems & embedded projects
-* 🧪 Weird experiments
+### Languages and Tools
 
-### 🛠️ Playground
-
-`C++` · `CMake` · `Git` · `Raylib` · `OpenCV` · `OpenGL`
-
-No strict roadmap.
-
-Just **learn → build → break → figure it out → repeat.**
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
